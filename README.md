@@ -77,3 +77,12 @@ de forma mais eficiente.
 - As informações incluídas na raspagem serão armazenadas em um arquivo csv.
 - Utiliza uma biblioteca de pandas para tratamento de arquivo, sendo ordenada e exibida para o usuário de acordo com o critério de pesquisa que ele escolheu.
 - Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa visualizar os dados em forma de gráfico.
+
+
+
+
+## Equipe:
+
+FELIPE SANTOS CARVALHO
+GABRIEL ANGELO BEZERRA
+NATHAN DO NASCIMENTO IGNACIO
